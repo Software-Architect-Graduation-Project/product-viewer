@@ -1,3 +1,7 @@
+server:
+  servlet:
+    context-path: /productviewer
+
 spring:
   application:
     name: product-viewer
